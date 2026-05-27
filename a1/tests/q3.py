@@ -1,3 +1,3 @@
 OK_FORMAT = True
 
-test = {'name': 'q3', 'points': None, 'suites': [{'cases': [{'code': '>>> assert len(yhat) == 7\n', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
+test = {'name': 'q3', 'points': 5, 'suites': [{'cases': [{'code': '>>> assert len(yhat) == 7\n', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
